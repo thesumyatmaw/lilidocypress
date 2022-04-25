@@ -1,0 +1,5 @@
+{
+    "baseUrl" : "https://littleui-app-git-master-thanthtetzin.vercel.app/",
+    "ignoreTestFiles" : ["**/1-getting-started/*", "**/2-advanced-examples/*"]
+}
+
